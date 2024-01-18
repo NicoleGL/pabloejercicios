@@ -1,0 +1,10 @@
+Alaya: 4.8
+Nicole: 6.75
+Jirafa: 1.2
+Pablo: 10
+Tenerife: 5
+Nicole: 2.1
+Mark: 4
+Mark: 7.2
+Elena: 5
+Alaya: 6.22
