@@ -21,6 +21,11 @@ typedef struct clase {
     La memoria de tanto el array de alumnos como del array de notas se debe asignar dinamicamente.
 */
 
+/*
+    El resultado se almacena en resultado.txt.
+    Se puede visualizar con el comando: cat resultado.txt
+*/
+
 t_clase *guardar_datos(FILE *f);
 
 int main(int argc, char* argv[]);
